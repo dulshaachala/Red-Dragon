@@ -141,4 +141,4 @@ Recommended WhatsApp👇
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 * [`Alien-Alfa`](https://github.com/Alien-Alfa)
 * [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
+* [`AflahXrd`](https://github.com/nexusNw)n
